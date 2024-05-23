@@ -1,0 +1,49 @@
+
+h2{
+    color: rgb(230, 30, 223);
+}
+.bg-container{
+    background-size: cover;
+    height: 100vh;
+    background-image: url('https://www.industrialcybersecuritypulse.com/wp-content/uploads/sites/8/2023/08/2110ICSP_WEB_IMG_CFEkeyboard_Slider-1.jpg');
+}
+.message{
+    height: 200px;
+    width: 400px;
+    border: 2px solid black;
+     border-radius: 6px;
+     font-size: 20px;
+     background-color: white;
+}
+.secret{
+    height: 40px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.encrypt-decrypt{
+    display: inline-block;
+    margin: 65px;
+    margin-left: 50px;
+}
+.action{
+    background-color: #2380fb;
+    font-weight: 700;
+    padding: 0.7rem 1rem;
+    border-color: #2380fb;
+}
+.encrypt_input{
+    margin-bottom: 50px;
+}
+.decrypt_input{
+    margin-bottom: 50px;
+}
+.nav-text{
+    color:white;
+    cursor: pointer;
+}
+.navbar{
+    display: inline-block;
+    width: 100px;
+    margin: 10px auto;
+}
